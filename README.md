@@ -86,8 +86,7 @@ Read these before you start:
 <br>
 
 - A macOS machine(optional): to create the macOS installer.
-- Flash drive, 12GB or more, for the above purpose.  
-- Xcode works fine for editing plist files on macOS, but I prefer [PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/).  
+- Flash drive, 32GB or more, for the above purpose.   
 - [ProperTree](https://github.com/corpnewt/ProperTree) if you need to edit plist files on Windows.  
 - [MountEFI](https://github.com/corpnewt/MountEFI) to quickly mount EFI partitions.  
 - [IORegistryExplorer](https://developer.apple.com/downloads), for diagnosis.  
