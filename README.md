@@ -130,7 +130,7 @@ Before you do anything, please familiarize yourself with basic Hackintosh termin
 
 | CPU            | Single-Core  | Multi-Core  |
 | :------------- | ----------:  | ---------:  |
-| Geekbench 5    |         2347 |       11023 |
+| Geekbench 6    |         2347 |       11023 |
 
 | GPU            | OpenCL       | Metal         |
 | :------------- | ----------:  | ---------:    |
