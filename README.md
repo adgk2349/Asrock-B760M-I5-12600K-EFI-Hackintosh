@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://www.apple.com/">
-        <img src="https://img.shields.io/badge/Sonoma-14.3.1-red.svg"/></a>
+        <img src="https://img.shields.io/badge/Sonoma-14.3.1-green.svg"/></a>
         <img src="https://img.shields.io/badge/OpenCore-0.9.8-blue"/></a>
 </p>
 
@@ -102,8 +102,11 @@ Read these before you start:
 | Category  | Asrock B760M ITX D4            |
 | --------- | ------------------------       |
 | CPU       | Intel Core i5-12600K           |
+| GPU       | Radeon RX6700XT 12GB           |
 | SSD       | Samsung 870 Evo 500GB          |
 | WiFi & BT | Intel(R) Wi-Fi 6E AX210 160MHz |
+| LAN       | Realtek RTL8111H               |
+
 
 - Refer to Various Companies that making electronics for possible Hackintosh configurations.
 
@@ -116,7 +119,6 @@ Read these before you start:
 Before you do anything, please familiarize yourself with basic Hackintosh terminologies and the basic Hackintosh process by throughly reading Dortania guides as linked in `REFERENCES`
 
 - How To Create macOS installer: refer to [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
-- [**README-HARDWARE**](/Other/README_HARDWARE.md): Requirements before installing.
 
 </details>
 
